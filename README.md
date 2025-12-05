@@ -16,7 +16,7 @@ No cleaning of the data or text has been donw for this assignment
 ## Terms and Conditions
 I chose books.toscrape.com because as the first warning that pops up says: "This is a demo website for web scraping purposes. Prices and ratings here were randomly assigned and have no real meaning." This meant that there were no robots.txt or terms and condiions that I needed to look out for. 
 
-## The corps format
+## The scraped_data_A3.csv format
 | Column | Description|
 |----------|----------|
 | TITLE    | title of the book  |
